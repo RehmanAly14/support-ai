@@ -28,7 +28,7 @@ const EmbedClient = ({ ownerId }: { ownerId: string }) => {
                    <motion.div 
             whileHover={{ scale: 1.05 }}
             className="flex items-center gap-3 cursor-pointer"
-            onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
+            onClick={() => router.push('/')}
           >
             <div className="relative">
               <div className="w-10 h-10 rounded-xl bg-linear-to-br from-black to-zinc-800 flex items-center justify-center">
