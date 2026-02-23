@@ -121,9 +121,7 @@ const DashboardClient = ({ ownerId }: { ownerId: string }) => {
             onClick={() => router.push('embed')}
             className="px-5 py-2.5 rounded-xl bg-black text-white text-sm font-medium hover:shadow-lg hover:shadow-indigo-500/25 transition-all duration-300 flex items-center gap-2"
           >
-            <Sparkles className="w-4 h-4" />
             Get Embed Code
-            <ChevronRight className="w-4 h-4" />
           </motion.button>
         </div>
       </motion.nav>
