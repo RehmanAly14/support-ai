@@ -1,36 +1,137 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+🤖 AI-Powered Customer Support Chatbot (Multi-Tenant SaaS)
 
-## Getting Started
+A fully customizable, embeddable AI customer support chatbot built with a scalable multi-tenant SaaS architecture.
+Designed for real-world deployment, this system enables multiple businesses to manage their own AI chatbots securely and efficiently.
 
-First, run the development server:
+🚀 Live Demo
 
-```bash
+👉 https://support-ai-mu-three.vercel.app/
+
+📌 Overview
+
+This project is a production-ready AI chatbot platform that allows:
+
+Businesses to deploy AI chatbots on their websites
+Developers to reuse the system as a SaaS product
+Organizations to manage multiple chatbots, users, and configurations
+
+It is built with scalability, modularity, and security as core principles.
+
+✨ Key Features
+🧠 AI Chatbot
+AI-powered conversational support system
+Context-aware responses (based on integration)
+Easily extendable AI logic
+🌐 Embeddable Widget
+Plug-and-play chatbot integration using a simple script/tag
+Works across any website
+Lightweight and customizable UI
+🏢 Multi-Tenant SaaS Architecture
+Supports multiple:
+Users
+Organizations
+Websites
+Complete tenant isolation and secure data handling
+🔐 Authentication & Organization Management
+Integrated with Scalekit
+Secure login & access control
+Organization-based data separation
+📊 Dashboard
+Built with Next.js App Router
+Manage:
+Chatbots
+Conversations
+Configurations
+Clean, modern UI/UX
+💾 Database
+Powered by MongoDB
+Stores:
+Chats
+Users
+Configurations
+Designed for scalability and performance
+🚀 Deployment
+Hosted on Vercel
+Optimized for serverless environments
+🛠 Tech Stack
+Category	Technology
+Frontend	Next.js (App Router)
+Backend	Node.js (via Next.js API routes)
+Database	MongoDB
+Auth	Scalekit
+AI Integration	Custom AI APIs / LLM integration
+Deployment	Vercel
+Widget	Embeddable JavaScript SDK
+🏗 Architecture
+Multi-Tenant Design
+Each organization has:
+Separate data scope
+Independent chatbot configurations
+Secure isolation ensures:
+No data leakage between tenants
+Scalable SaaS usage
+System Components
+Frontend Dashboard (Next.js)
+API Layer (Serverless functions)
+Database (MongoDB)
+AI Processing Layer
+Embeddable Chat Widget
+📦 Installation
+git clone https://github.com/your-username/your-repo.git
+cd your-repo
+npm install
+⚙️ Environment Variables
+
+Create a .env.local file:
+
+MONGODB_URI=your_mongodb_connection_string
+SCALEKIT_API_KEY=your_scalekit_key
+NEXT_PUBLIC_APP_URL=http://localhost:3000
+AI_API_KEY=your_ai_api_key
+🧪 Run Locally
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+App will run at:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+http://localhost:3000
+🔌 Embedding the Chatbot
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Add this script to your website:
 
-## Learn More
+<script src="https://your-domain.com/widget.js" data-tenant="YOUR_TENANT_ID"></script>
 
-To learn more about Next.js, take a look at the following resources:
+✅ That’s it — your chatbot is live!
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+📈 Use Cases
+Customer Support Automation
+SaaS Chatbot Platform
+Client Projects / Freelancing
+Business Process Automation
+Lead Generation Bots
+🔮 Future Improvements
+🔹 Analytics Dashboard (chat insights, usage stats)
+🔹 Fine-tuned AI models per tenant
+🔹 Webhook integrations (CRM, Slack, etc.)
+🔹 Multi-language support
+🔹 Voice-based chatbot
+🤝 Contributing
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Contributions are welcome!
 
-## Deploy on Vercel
+fork → clone → create branch → commit → push → PR
+📄 License
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+MIT License
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+💬 Feedback & Collaboration
+
+I’m actively exploring opportunities in AI-driven SaaS development.
+
+If you’d like to collaborate, improve this system, or use it in your business:
+
+📩 Feel free to reach out!
+
+👨‍💻 Author
+
+Sherry Rehman
+Full-Stack Developer | AI SaaS Builder
