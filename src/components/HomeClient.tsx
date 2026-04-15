@@ -38,7 +38,6 @@ const HomeClient = ({ email }: { email: string }) => {
   const firstLetter = email ? email[0].toUpperCase() : "";
   const profileDropdown = useRef<HTMLDivElement>(null);
 
-  // Close when clicking outside
   useEffect(() => {
     const handleClickOutside = (event: MouseEvent) => {
       if (
@@ -53,7 +52,7 @@ const HomeClient = ({ email }: { email: string }) => {
     return () => document.removeEventListener("mousedown", handleClickOutside);
   }, []);
 
-  // Scroll effect for navbar
+
   useEffect(() => {
     const handleScroll = () => {
       setIsScrolled(window.scrollY > 20);
