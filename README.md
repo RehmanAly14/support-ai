@@ -14,15 +14,18 @@ Built with scalability, security, and reusability in mind — making it ideal fo
 SaaS products
 Client deployments
 Business automation systems
+
 ✨ Features
 🧠 AI-Powered Chatbot
 Intelligent conversational responses
 Easily extendable AI logic
 Context-aware interactions
+
 🌐 Embeddable Chat Widget
 Plug-and-play integration via script tag
 Works on any website
 Lightweight and customizable
+
 🏢 Multi-Tenant SaaS Architecture
 Supports multiple:
 Organizations
@@ -30,10 +33,12 @@ Users
 Websites
 Secure tenant isolation
 Scalable design for SaaS growth
+
 🔐 Authentication & Access Control
 Integrated with Scalekit
 Organization-based access management
 Secure user authentication
+
 📊 Admin Dashboard
 Built using Next.js App Router
 Manage:
@@ -41,6 +46,7 @@ Chatbots
 Conversations
 Configurations
 Clean, modern UI
+
 💾 Database Layer
 Powered by MongoDB
 Stores:
@@ -48,9 +54,11 @@ Users
 Chats
 Configurations
 Optimized for performance
+
 🚀 Deployment
 Hosted on Vercel
 Serverless & highly scalable
+
 🛠 Tech Stack
 Layer	Technology
 Frontend	Next.js (App Router)
@@ -60,6 +68,7 @@ Authentication	Scalekit
 AI Layer	LLM / AI API Integration
 Deployment	Vercel
 Widget	JavaScript Embeddable SDK
+
 🏗 Architecture
 🔹 Multi-Tenant Design
 
