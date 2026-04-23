@@ -1,7 +1,7 @@
-####  AI-Powered Customer Support Chatbot
-## Scalable Multi-Tenant SaaS Platform
+##  AI-Powered Customer Support Chatbot
+#### Scalable Multi-Tenant SaaS Platform
 
-## 🚀 Live Demo
+#### 🚀 Live Demo
  - https://support-ai-mu-three.vercel.app/
 
 ---
@@ -11,7 +11,7 @@
 - A production-ready AI chatbot platform designed for modern businesses and developers.
 - This system enables multiple organizations to deploy and manage custom AI chatbots with complete data isolation using a multi-tenant SaaS architecture.
 
-## Built with scalability, security, and reusability in mind — making it ideal for:
+#### Built with scalability, security, and reusability in mind — making it ideal for:
 
 - SaaS products
 - Client deployments
@@ -25,13 +25,13 @@
 - Easily extendable AI logic
 - Context-aware interactions
 
-## 🌐 Embeddable Chat Widget
+### 🌐 Embeddable Chat Widget
 - Plug-and-play integration via script tag
 - Works on any website
 - Lightweight and customizable
 
 ### 🏢 Multi-Tenant SaaS Architecture
-## Supports multiple:
+#### Supports multiple:
 - Organizations
 - Users
 - Websites
@@ -86,7 +86,7 @@
 
 ---
 
-## Each organization operates in an isolated environment:
+#### Each organization operates in an isolated environment:
 
 - Separate chatbot configurations
 - Independent data storage
@@ -102,7 +102,7 @@
 
 --- 
 
-## Create a .env.local file in the root directory:
+#### Create a .env.local file in the root directory:
 
 - MONGODB_URI=your_mongodb_connection_string
 - SCALEKIT_API_KEY=your_scalekit_api_key
@@ -132,17 +132,17 @@
 
 ### Contributions are welcome!
 
-# Fork the repo
-# Create your feature branch
+### Fork the repo
+#### Create your feature branch
 git checkout -b feature/YourFeature
 
-# Commit your changes
+#### Commit your changes
 git commit -m "Add new feature"
 
-# Push to GitHub
+#### Push to GitHub
 git push origin feature/YourFeature
 
-# Open a Pull Request 
+#### Open a Pull Request 
 📄 License
 
 This project is licensed under the MIT License.
@@ -157,11 +157,11 @@ This project is licensed under the MIT License.
 - Freelance projects
 - AI SaaS opportunities
 
-## Feel free to connect and share feedback!
+#### Feel free to connect and share feedback!
 
 --- 
 
-####  Author
+#  Author
 
-### Sherry Rehman
-## Full-Stack Developer | AI SaaS Builder
+## Sherry Rehman
+#### Full-Stack Developer | AI SaaS Builder
