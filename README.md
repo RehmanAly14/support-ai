@@ -1,4 +1,4 @@
-#### 🤖 AI-Powered Customer Support Chatbot
+####  AI-Powered Customer Support Chatbot
 ## Scalable Multi-Tenant SaaS Platform
 
 ## 🚀 Live Demo
@@ -45,7 +45,7 @@
 - Organization-based access management
 - Secure user authentication
 
-### 📊 Admin Dashboard
+###  Admin Dashboard
 ## Built using Next.js App Router
 # Manage:
 - Chatbots
@@ -53,7 +53,7 @@
 - Configurations
 - Clean, modern UI
 
-### 💾 Database Layer
+###  Database Layer
 ## Powered by MongoDB
 # Stores:
 - Users
@@ -108,7 +108,7 @@
 - SCALEKIT_API_KEY=your_scalekit_api_key
 - NEXT_PUBLIC_APP_URL=http://localhost:3000
 - AI_API_KEY=your_ai_api_key
-- 🧪 Run Locally
+-  Run Locally
 - npm run dev
 
 ---
@@ -142,14 +142,14 @@ git commit -m "Add new feature"
 # Push to GitHub
 git push origin feature/YourFeature
 
-# Open a Pull Request 🚀
+# Open a Pull Request 
 📄 License
 
 This project is licensed under the MIT License.
 
 ---
 
-### 💬 Feedback & Collaboration
+###  Feedback & Collaboration
 
 ## Open to:
 
@@ -161,7 +161,7 @@ This project is licensed under the MIT License.
 
 --- 
 
-👨‍💻 Author
+####  Author
 
-Sherry Rehman
-Full-Stack Developer | AI SaaS Builder
+### Sherry Rehman
+## Full-Stack Developer | AI SaaS Builder
