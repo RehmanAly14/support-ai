@@ -1,125 +1,132 @@
-🤖 AI-Powered Customer Support Chatbot
-Scalable Multi-Tenant SaaS Platform
+#### 🤖 AI-Powered Customer Support Chatbot
+## Scalable Multi-Tenant SaaS Platform
 
-🚀 Live Demo
-  https://support-ai-mu-three.vercel.app/
+## 🚀 Live Demo
+ - https://support-ai-mu-three.vercel.app/
 
-📌 Overview
+---
 
-A production-ready AI chatbot platform designed for modern businesses and developers.
-This system enables multiple organizations to deploy and manage custom AI chatbots with complete data isolation using a multi-tenant SaaS architecture.
+### Overview
 
-Built with scalability, security, and reusability in mind — making it ideal for:
+- A production-ready AI chatbot platform designed for modern businesses and developers.
+- This system enables multiple organizations to deploy and manage custom AI chatbots with complete data isolation using a multi-tenant SaaS architecture.
 
-SaaS products
-Client deployments
-Business automation systems
+## Built with scalability, security, and reusability in mind — making it ideal for:
 
-✨ Features
-🧠 AI-Powered Chatbot
-Intelligent conversational responses
-Easily extendable AI logic
-Context-aware interactions
+- SaaS products
+- Client deployments
+- Business automation systems
 
-🌐 Embeddable Chat Widget
-Plug-and-play integration via script tag
-Works on any website
-Lightweight and customizable
+---
 
-🏢 Multi-Tenant SaaS Architecture
-Supports multiple:
-Organizations
-Users
-Websites
-Secure tenant isolation
-Scalable design for SaaS growth
+### Features
+- 🧠 AI-Powered Chatbot
+- Intelligent conversational responses
+- Easily extendable AI logic
+- Context-aware interactions
 
-🔐 Authentication & Access Control
-Integrated with Scalekit
-Organization-based access management
-Secure user authentication
+## 🌐 Embeddable Chat Widget
+- Plug-and-play integration via script tag
+- Works on any website
+- Lightweight and customizable
 
-📊 Admin Dashboard
-Built using Next.js App Router
-Manage:
-Chatbots
-Conversations
-Configurations
-Clean, modern UI
+### 🏢 Multi-Tenant SaaS Architecture
+## Supports multiple:
+- Organizations
+- Users
+- Websites
+- Secure tenant isolation
+- Scalable design for SaaS growth
 
-💾 Database Layer
-Powered by MongoDB
-Stores:
-Users
-Chats
-Configurations
-Optimized for performance
+---
 
-🚀 Deployment
-Hosted on Vercel
-Serverless & highly scalable
+### 🔐 Authentication & Access Control
+- Integrated with Scalekit
+- Organization-based access management
+- Secure user authentication
 
-🛠 Tech Stack
-Layer	Technology
-Frontend	Next.js (App Router)
-Backend	Next.js API Routes (Node.js)
-Database	MongoDB
-Authentication	Scalekit
-AI Layer	LLM / AI API Integration
-Deployment	Vercel
-Widget	JavaScript Embeddable SDK
+### 📊 Admin Dashboard
+## Built using Next.js App Router
+# Manage:
+- Chatbots
+- Conversations
+- Configurations
+- Clean, modern UI
 
-🏗 Architecture
-🔹 Multi-Tenant Design
+### 💾 Database Layer
+## Powered by MongoDB
+# Stores:
+- Users
+- Chats
+- Configurations
+- Optimized for performance
 
-Each organization operates in an isolated environment:
+---
 
-Separate chatbot configurations
-Independent data storage
-Secure access boundaries
+### Deployment
+- Hosted on Vercel
+- Serverless & highly scalable
 
-✅ Ensures:
+---
 
-Data privacy
-Scalability
-SaaS readiness
-🔹 System Components
-Frontend (Next.js Dashboard)
-        ↓
-API Layer (Serverless Functions)
-        ↓
-MongoDB Database
-        ↓
-AI Processing Layer
-        ↓
-Embeddable Chat Widget
-📦 Installation
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
-npm install
-⚙️ Environment Variables
+### Tech Stack
+- Layer	Technology
+- Frontend	Next.js (App Router)
+- Backend	Next.js API Routes (Node.js)
+- Database	MongoDB
+- Authentication	Scalekit
+- AI Layer	LLM / AI API Integration
+- Deployment	Vercel
+- Widget	JavaScript Embeddable SDK
 
-Create a .env.local file in the root directory:
+---
 
-MONGODB_URI=your_mongodb_connection_string
-SCALEKIT_API_KEY=your_scalekit_api_key
-NEXT_PUBLIC_APP_URL=http://localhost:3000
-AI_API_KEY=your_ai_api_key
-🧪 Run Locally
-npm run dev
+### Architecture
+- 🔹 Multi-Tenant Design
 
-Visit:
-👉 http://localhost:3000
-🔌 Embedding the Chatbot
+-- 
 
-Add this script to your website:
+## Each organization operates in an isolated environment:
+
+- Separate chatbot configurations
+- Independent data storage
+- Secure access boundaries
+
+--- 
+
+### 📦 Installation
+- git clone https://github.com/your-username/your-repo.git
+- cd your-repo
+- npm install
+- ⚙️ Environment Variables
+
+--- 
+
+## Create a .env.local file in the root directory:
+
+- MONGODB_URI=your_mongodb_connection_string
+- SCALEKIT_API_KEY=your_scalekit_api_key
+- NEXT_PUBLIC_APP_URL=http://localhost:3000
+- AI_API_KEY=your_ai_api_key
+- 🧪 Run Locally
+- npm run dev
+
+---
+
+### Visit:
+-  http://localhost:3000
+- 🔌 Embedding the Chatbot
+
+## Add this script to your website:
 
 <script 
   src="https://your-domain.com/widget.js" 
   data-tenant="YOUR_TENANT_ID">
 </script>
 
-✅ Your chatbot will be live instantly.
+- Your chatbot will be live instantly.
+
+---
 
 📈 Use Cases
 Customer Support Automation
