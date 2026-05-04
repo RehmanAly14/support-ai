@@ -20,7 +20,7 @@
 ---
 
 ### Features
-- 🧠 AI-Powered Chatbot
+-  AI-Powered Chatbot
 - Intelligent conversational responses
 - Easily extendable AI logic
 - Context-aware interactions
@@ -40,7 +40,7 @@
 
 ---
 
-### 🔐 Authentication & Access Control
+###  Authentication & Access Control
 - Integrated with Scalekit
 - Organization-based access management
 - Secure user authentication
