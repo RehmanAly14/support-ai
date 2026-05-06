@@ -1,7 +1,7 @@
 ##  AI-Powered Customer Support Chatbot
 #### Scalable Multi-Tenant SaaS Platform
 
-#### 🚀 Live Demo
+####  Live Demo
  - https://support-ai-mu-three.vercel.app/
 
 ---
