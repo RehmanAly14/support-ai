@@ -25,7 +25,7 @@
 - Easily extendable AI logic
 - Context-aware interactions
 
-### 🌐 Embeddable Chat Widget
+###  Embeddable Chat Widget
 - Plug-and-play integration via script tag
 - Works on any website
 - Lightweight and customizable
