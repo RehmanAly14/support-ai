@@ -30,7 +30,7 @@
 - Works on any website
 - Lightweight and customizable
 
-### 🏢 Multi-Tenant SaaS Architecture
+###  Multi-Tenant SaaS Architecture
 #### Supports multiple:
 - Organizations
 - Users
